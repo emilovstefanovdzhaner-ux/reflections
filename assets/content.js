@@ -11,7 +11,7 @@
    ============================================================ */
 
 window.SITE = {
-  name: "Reflections From Me",
+  name: "Reflections",
   tagline: "Short papers written to think out loud, and a few live sessions to keep doing it together.",
   footer: "Written and published by Caner.",
   contact: "mailto:hello@example.com",
